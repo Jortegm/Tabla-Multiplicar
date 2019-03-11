@@ -1,0 +1,35 @@
+div#cabezera {
+    margin: 2%;
+    color: brown;
+    background-color: azure;
+    font-size: 36px;
+    text-align: center;
+    border: 1px solid brown;
+}
+
+div#cuerpo {
+    margin: 2%;
+    color: green;
+    height: 100%;
+    font-size: 25px;
+    text-align: center;
+}
+
+div#res2 {
+    color: black;
+    margin-top: 1%;
+    font-size: 20px;
+    text-align: center;
+    border-top: 1px solid black;
+}
+
+div#footer {
+    padding-top: 1%;
+    margin: 2%;
+    left: 0;
+    bottom: 0;
+    color: black;
+    text-align: center;
+    border-top: 1px solid green;
+    font-size: 17px;
+}
